@@ -1,0 +1,29 @@
+{
+  "telegram_token": "7335196458:AAGh1k-5MtkVIJEJmrfewgFWbl_W1YyAzLE",
+  "admin_id": 5494615148,
+  "domain": "vpn.elitedev.ir",
+  "port": 443,
+  "xui": {
+    "url": "https://vpn.elitedev.ir/vpn_ad_pnl",
+    "username": "elitedev",
+    "password": "Taha8613@92342#"
+  },
+  "payment": {
+    "kart_be_kart": {
+      "enabled": true,
+      "shaba": "IR120560611828006486709401",
+      "bank": "بلو بانک (سامان)"
+    },
+    "zarinpal": {
+      "enabled": true,
+      "api_key": "ZARINPAL_API_KEY"
+    },
+    "crypto": {
+      "enabled": true,
+      "wallets": {
+        "BTC": "BTC_WALLET",
+        "USDT": "USD_WALLET"
+      }
+    }
+  }
+}
