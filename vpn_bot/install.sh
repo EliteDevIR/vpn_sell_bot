@@ -3,7 +3,7 @@ sudo apt update && sudo apt install -y python3 python3-pip git
 pip3 install python-telegram-bot requests qrcode pillow
 
 echo "دانلود پروژه..."
-git clone https://your-repo-url/vpn-bot.git ~/vpn-bot
+git clone https://github.com/EliteDevIR/vpn_sell_bot.git ~/vpn-bot
 cd ~/vpn-bot
 chmod +x install.sh
 
